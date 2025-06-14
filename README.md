@@ -30,7 +30,7 @@ A simple and scalable Todo List application built using **React** and **Redux To
 
 - **Frontend**: React
 - **State Management**: Redux Toolkit
-- **Styling**: CSS / Bootstrap (if used)
-- **Tooling**: Vite / CRA / Webpack (edit based on your setup)
+- **Styling**: CSS / Bootstrap 
+- **Tooling**: Vite 
 
 
